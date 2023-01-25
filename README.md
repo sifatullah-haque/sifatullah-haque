@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sifatulla.haque@gmail.com**
 
-- ⚡ Fun fact **I've learned everything by myself and within 1 year**
+- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
