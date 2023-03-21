@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatulla-haque&label=Profile%20views&color=0e75b6&style=flat" alt="sifatulla-haque" /> </p>
 
-- 🔭 I’m currently working on **Competitive Programming**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Python, Data science & Machine Learning,**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **c/c++, or maybe Web development?**
 
