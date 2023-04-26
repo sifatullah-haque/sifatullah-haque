@@ -21,8 +21,7 @@
 </p>
 <h3 align="left">So you  ❤️ stats? Here are mine..</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sifatullah-haque&" alt="sifatulla-haque" ></p>
-</br>
-</br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sifatullah-haque&show_icons=true&locale=en" alt="sifatulla-haque"></p>
 
 <h3 align="center">Languages and Tools 🛠️:</h3>
