@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatulla-haque&label=Profile%20views&color=0e75b6&style=flat" alt="sifatulla-haque" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **App Development**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **c/c++, or maybe Web development?**
+- 💬 Ask me about **c/c++, or maybe App development?**
 
 - 📫 How to reach me **sifatulla.haque@gmail.com**
 
